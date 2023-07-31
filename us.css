@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+}
+body{
+    background-color: black;
+    
+    align-items: center;
+    margin-top: 25px;
+}
+h1,h2{
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+}
+p{
+    text-align: center;
+    margin-top: 100px;
+}
+.btn{
+    width: 200px;
+    padding: 15px;
+    background-color: #fff;
+    color: black;
+    border-radius: 15px;
+    text-align:center ;
+    cursor: pointer;
+}
